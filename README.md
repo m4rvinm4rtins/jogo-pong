@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Jogo Pong
 
 Rápida descrição do objetivo de fazer esse projeto
 
